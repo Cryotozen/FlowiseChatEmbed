@@ -31,7 +31,7 @@ export type BotProps = {
     fontSize?: number
 }
 
-const defaultWelcomeMessage = 'Hi there! How can I help?'
+const defaultWelcomeMessage = 'Hallo ik ben Alice! Wat kan ik voor je doen?'
 
 /*const sourceDocuments = [
     {
